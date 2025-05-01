@@ -27,5 +27,5 @@ TeaHouse is a beautifully designed, fully responsive tea-themed landing page bui
 
 ---
 
-## 📁 Folder Structure
+
 
